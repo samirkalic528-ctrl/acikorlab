@@ -1,0 +1,8 @@
+{
+  "name": "ACIKORLab",
+  "description": "Transform casual selfies into professional",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
